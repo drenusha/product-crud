@@ -1,0 +1,15 @@
+.add_button {
+  float: left;
+}
+.add_form {
+  display: flex;
+  flex-direction: column; 
+  gap: 20px;
+}
+.form_label{
+    margin: 50px;
+}
+.modal_btns{
+  display: flex;
+  flex-direction: column;
+}

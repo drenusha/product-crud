@@ -1,0 +1,29 @@
+@import "antd/dist/reset.css";
+
+.register_page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 120px;
+}
+.title{
+  padding: 35px;
+  color: #1677ff;
+}
+.register_btns{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin-left: 140px;
+}
+.log_btn {
+  color: #1677ff;
+  width: 50%;
+}
+.reg_btn{
+  width: 50%;
+}
+
+.log_btn:hover {
+  color: #99bdef;
+}
+

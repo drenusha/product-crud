@@ -1,0 +1,30 @@
+/* @import "antd/dist/reset.css"; */
+
+.login_page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 120px;
+}
+
+.title {
+  padding: 35px;
+  text-align: center;
+  color: #1677ff;
+}
+
+.register_btn {
+  color: #1677ff;
+}
+
+.register_btn:hover {
+  color: #99bdef;
+}
+
+.btns {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
